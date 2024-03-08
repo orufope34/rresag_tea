@@ -1,0 +1,24 @@
+{
+  "name": "rresag_tea",
+  "version": "1.0.0",
+  "description": "testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orufope34/rresag_tea.git"
+  },
+  "dependencies": {
+    "codes_tea-": "^1.0.0",
+    "defilan_tea_870": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orufope34/rresag_tea/issues"
+  },
+  "homepage": "https://github.com/orufope34/rresag_tea#readme"
+}
