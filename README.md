@@ -1,0 +1,2 @@
+# rresag_tea
+testnet
